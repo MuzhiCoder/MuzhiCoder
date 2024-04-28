@@ -71,7 +71,7 @@
   </tbody>
 </table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuZhiCoder&theme=github-dark&height=350&hide_border=true)](https://github.com/MuZhiCoder/MuZhiCoder/)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuZhiCoder&theme=github-dark&bg_color=22272e&height=350&hide_border=true)](https://github.com/MuZhiCoder/MuZhiCoder/)
 
 
 <div style="display: flex; align-items: center;">
