@@ -25,7 +25,7 @@
 
 ---
 
-## ️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages & Frameworks
 <p align="center">
@@ -57,25 +57,28 @@
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=MuZhiCoder&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuZhiCoder&theme=radical&layout=compact&count_private=true" alt="Top Languages" />
+  <a href="https://github.com/MuZhiCoder">
+    <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuZhiCoder&theme=radical" alt="Profile Details" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="600" src="https://streak-stats.demolab.com?user=MuZhiCoder&theme=radical&date_format=%5BY.%5Dn.j" alt="Streak Stats" />
+  <a href="https://git.io/streak-stats">
+    <img width="600" src="https://streak-stats.demolab.com?user=MuZhiCoder&theme=radical&date_format=%5BY.%5Dn.j&hide_border=true" alt="Streak Stats" />
+  </a>
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-- 📝 Maintaining repositories on GitHub
--  Active contributor in **Java** ecosystem
--  Specialized in **enterprise backend development**
--  Learning and exploring **Python & AI technologies**
+-  Maintaining repositories on GitHub
+- 🔥 Active contributor in **Java** ecosystem
+- 💼 Specialized in **enterprise backend development**
+- 💡 Learning and exploring **Python & AI technologies**
 
 ---
 
