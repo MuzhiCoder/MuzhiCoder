@@ -11,21 +11,21 @@
 ## 👨‍💻 About Me
 
 - 🔭 I'm a **Java Developer** with experience in enterprise applications
--  Currently learning **Python** and exploring **AI/LLM technologies**
+- 🌱 Currently learning **Python** and exploring **AI/LLM technologies**
 - 💼 Open for collaboration on **Java, Python, Full-stack projects**
 - 🎯 Focus areas: **Backend Development, Microservices, Cloud Native**
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [SiYuan_Note](https://github.com/MuzhiCoder/SiYuan_Note) | Cloud backup and sync tool for SiYuan Note local library | Python, Automation, Cloud Sync |  Active |
+| [SiYuan_Note](https://github.com/MuzhiCoder/SiYuan_Note) | Cloud backup and sync tool for SiYuan Note local library | Python, Automation, Cloud Sync | 🟢 Active |
 
 ---
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 ### Languages & Frameworks
 <p align="center">
@@ -57,15 +57,15 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=MuZhiCoder&theme=radical&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuZhiCoder&theme=radical&hide_border=true&layout=compact" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=MuZhiCoder&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuZhiCoder&theme=radical&layout=compact&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="600" src="https://streak-stats.demolab.com?user=MuZhiCoder&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" />
+  <img width="600" src="https://streak-stats.demolab.com?user=MuZhiCoder&theme=radical&date_format=%5BY.%5Dn.j" alt="Streak Stats" />
 </p>
 
 ---
@@ -73,9 +73,9 @@
 ## 🏆 Achievements
 
 - 📝 Maintaining repositories on GitHub
-- 🔥 Active contributor in **Java** ecosystem
+-  Active contributor in **Java** ecosystem
 -  Specialized in **enterprise backend development**
-- 💡 Learning and exploring **Python & AI technologies**
+-  Learning and exploring **Python & AI technologies**
 
 ---
 
