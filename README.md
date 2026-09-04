@@ -21,6 +21,7 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
+| [codex-wip-skill](https://github.com/MuzhiCoder/codex-wip-skill) | Durable checkpoint, handoff, forensic recovery and resume workflow for long-running OpenAI Codex sessions | Codex Skills, Python, PowerShell, GitHub Actions | 🟢 Active |
 | [SiYuan_Note](https://github.com/MuzhiCoder/SiYuan_Note) | Cloud backup and sync tool for SiYuan Note local library | Python, Automation, Cloud Sync | 🟢 Active |
 
 ---
